@@ -8,11 +8,12 @@ Since then, however, the American political landscape (and, with it, the major p
 Thus far, initial attempts to replicate key regression models in the project have succeeded. These models involve assessing the state-level per-capita income's statistical association with the Republican presidential candidate's vote share in each presidential election going back to the 1950s. Then, the slope of each regression line (which highlights the strength of the relationship between income and GOP vote share for that year) was itself plotted on a new graph. An exact replica of Figure 1 in Gelman's paper, illustrating that in recent elections that rich states indeed are voting for Democrats, was produced. However, additional work remains to conduct the necessary modeling on individual-level income-voting patterns, as well as link the state and individual-level models together with multilevel logistic-regression model.
 
 ## CONTENTS
-[01: Converting R datasets to Feather Format](01-R-data-to-feather.ipynb)
-[02: Importing Feathered Data to Python](02-feather-to-python.ipynb)
-[03: Data Cleaning and EDA](03-data-cleaning-eda.ipynb)
-[04: Modeling Analysis (Still to Come\!)]04-modeling-analysis.ipynb
-[Appendix A: Gelman, et al.'s Replication Code](appendix-A-replication-code.ipynb)
-[Slide Deck]Red State, Blue State, Rich State, Poor State.pdf
-[Technical Summary](SUMMARY.md)
-[Other Datasets](https://mega.nz/#F!cDBkzIiL!zruMjune5VDN4nUm_CAMCw)
+
+- [01: Converting R datasets to Feather Format](01-R-data-to-feather.ipynb)
+- [02: Importing Feathered Data to Python](02-feather-to-python.ipynb)
+- [03: Data Cleaning and EDA](03-data-cleaning-eda.ipynb)
+- [04: Modeling Analysis (Still to Come\!)]04-modeling-analysis.ipynb
+- [Appendix A: Gelman, et al.'s Replication Code](appendix-A-replication-code.ipynb)
+- [Slide Deck]Red State, Blue State, Rich State, Poor State.pdf
+- [Technical Summary](SUMMARY.md)
+- [Other Datasets](https://mega.nz/#F!cDBkzIiL!zruMjune5VDN4nUm_CAMCw)
