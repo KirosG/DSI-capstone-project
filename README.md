@@ -12,8 +12,8 @@ Thus far, initial attempts to replicate key regression models in the project hav
 - [01: Converting R datasets to Feather Format](01-R-data-to-feather.ipynb)
 - [02: Importing Feathered Data to Python](02-feather-to-python.ipynb)
 - [03: Data Cleaning and EDA](03-data-cleaning-eda.ipynb)
-- [04: Modeling Analysis (Still to Come\!)]04-modeling-analysis.ipynb
+- [04: Modeling Analysis (Still to Come\!)](04-modeling-analysis.ipynb)
 - [Appendix A: Gelman, et al.'s Replication Code](appendix-A-replication-code.ipynb)
-- [Slide Deck]Red State, Blue State, Rich State, Poor State.pdf
+- [Slide Deck](Red%20State,%20Blue%20State,%20Rich%20State,%20Poor%20State.pdf)
 - [Technical Summary](SUMMARY.md)
 - [Other Datasets](https://mega.nz/#F!cDBkzIiL!zruMjune5VDN4nUm_CAMCw)
